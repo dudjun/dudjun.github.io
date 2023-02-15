@@ -10,7 +10,6 @@ toc_sticky: true
 
 published: true
 
-date: 2023-02-13 21:58:26
 ---
 
 # GitHub Pages란?
